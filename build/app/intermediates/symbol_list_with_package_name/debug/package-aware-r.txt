@@ -1,4 +1,4 @@
-com.example.social_wall
+com.example.CONTGURD
 attr activityAction
 attr activityName
 attr alpha

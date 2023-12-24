@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/flutter project/social_wall/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGURD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/salem/.gradle/caches/transforms-3/36a45b2abb854eca36c578fbec6ed4df/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",
@@ -42,6 +42,25 @@
                     }
                 },
                 {
+                    "source": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGURD/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "136,141",
+                        "startColumns": "4,4",
+                        "startOffsets": "9853,10161",
+                        "endLines": "140,143",
+                        "endColumns": "12,12",
+                        "endOffsets": "10156,10325"
+                    }
+                },
+                {
                     "source": "/home/salem/.gradle/caches/transforms-3/f9d00c0ad06f3737f5584e3a1be6cac9/transformed/browser-1.4.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -59,22 +78,20 @@
                     }
                 },
                 {
-                    "source": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/flutter project/social_wall/android/app/src/main/res/values/styles.xml",
+                    "source": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGURD/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,137,241,350,470,571",
+                        "endColumns": "81,103,108,119,100,77",
+                        "endOffsets": "132,236,345,465,566,644"
                     },
                     "to": {
-                        "startLines": "136,141",
-                        "startColumns": "4,4",
-                        "startOffsets": "9853,10161",
-                        "endLines": "140,143",
-                        "endColumns": "12,12",
-                        "endOffsets": "10156,10325"
+                        "startLines": "129,130,131,132,133,134",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "9188,9270,9374,9483,9603,9704",
+                        "endColumns": "81,103,108,119,100,77",
+                        "endOffsets": "9265,9369,9478,9598,9699,9777"
                     }
                 },
                 {
@@ -111,23 +128,6 @@
                         "startOffsets": "6434,7612",
                         "endColumns": "67,166",
                         "endOffsets": "6497,7774"
-                    }
-                },
-                {
-                    "source": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/flutter project/social_wall/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,137,241,350,470,571",
-                        "endColumns": "81,103,108,119,100,77",
-                        "endOffsets": "132,236,345,465,566,644"
-                    },
-                    "to": {
-                        "startLines": "129,130,131,132,133,134",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "9188,9270,9374,9483,9603,9704",
-                        "endColumns": "81,103,108,119,100,77",
-                        "endOffsets": "9265,9369,9478,9598,9699,9777"
                     }
                 }
             ]

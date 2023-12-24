@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/flutter project/social_wall/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
+            "outputFile": "/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGURD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
             "map": [
                 {
                     "source": "/home/salem/.gradle/caches/transforms-3/4c5cefc4bced38f73a0cc4404fde07b9/transformed/jetified-play-services-basement-18.1.0/res/values-ml/values.xml",
