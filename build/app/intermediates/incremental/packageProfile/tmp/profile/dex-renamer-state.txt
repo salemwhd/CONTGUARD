@@ -1,0 +1,10 @@
+#Mon Dec 25 10:47:33 EET 2023
+base.0=/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/app/intermediates/dex/profile/mergeDexProfile/classes.dex
+base.1=/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/app/intermediates/dex/profile/mergeDexProfile/classes2.dex
+base.2=/mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/app/intermediates/dex/profile/mergeDexProfile/classes3.dex
+path.0=classes.dex
+path.1=classes2.dex
+path.2=classes3.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

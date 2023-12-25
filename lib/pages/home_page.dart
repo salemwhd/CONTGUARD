@@ -26,9 +26,7 @@ class _HomePageState extends State<HomePage> {
   final textController = TextEditingController();
   File? _imageFile;
   //sign user out
-  void signOut() {
-    FirebaseAuth.instance.signOut();
-  }
+  
 
   //post message
   void postMessage() {
@@ -49,27 +47,8 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
-  //navigate to profile page
-  void goToProfilePage() {
-    //pop menu drawer
-    Navigator.pop(context);
+  
 
-    //go to profile page
-    Navigator.push(
-        context,
-        MaterialPageRoute(
-            builder: (context) => ProfilePage(userId: currentUser.email!)));
-  }
-
-  // function to navigate to explore page
-  void goToExplorePage() {
-    //pop menu drawer
-    Navigator.pop(context);
-
-    //go to explore page
-    Navigator.push(
-        context, MaterialPageRoute(builder: (context) => ExplorePage()));
-  }
 
   @override
   Widget build(BuildContext context) {

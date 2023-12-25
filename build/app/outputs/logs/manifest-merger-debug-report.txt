@@ -52,6 +52,7 @@ MERGED from [:cloud_firestore] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduat
 MERGED from [:firebase_core] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.multidex:multidex:2.0.1] /home/salem/.gradle/caches/transforms-3/2b44ee30f3ca1d5f0098e524eadccd39/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/salem/.gradle/caches/transforms-3/77d1fc621ab4c904e339bacd46304591/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-firestore:24.6.1] /home/salem/.gradle/caches/transforms-3/753fe461f5065f5addf7a4fdbd5014b7/transformed/jetified-firebase-firestore-24.6.1/AndroidManifest.xml:2:1-25:12
@@ -97,7 +98,7 @@ INJECTED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTG
 INJECTED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 INJECTED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/debug/AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/main/AndroidManifest.xml:2:5-35
+		ADDED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/main/AndroidManifest.xml:2:5-36
 		INJECTED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/main/AndroidManifest.xml
 		INJECTED from /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/android/app/src/debug/AndroidManifest.xml
 	android:versionName
@@ -132,6 +133,8 @@ MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/gr
 MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.multidex:multidex:2.0.1] /home/salem/.gradle/caches/transforms-3/2b44ee30f3ca1d5f0098e524eadccd39/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /home/salem/.gradle/caches/transforms-3/2b44ee30f3ca1d5f0098e524eadccd39/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/salem/.gradle/caches/transforms-3/77d1fc621ab4c904e339bacd46304591/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:21:5-23:64
