@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:CONTGURD/components/globale_appBar.dart';
-import 'package:CONTGURD/components/text_box.dart';
-import 'package:CONTGURD/components/wall_post.dart';
-import 'package:CONTGURD/helper/helper_method.dart';
+import 'package:CONTGUARD/components/globale_appBar.dart';
+import 'package:CONTGUARD/components/text_box.dart';
+import 'package:CONTGUARD/components/wall_post.dart';
+import 'package:CONTGUARD/helper/helper_method.dart';
 //import 'package:firebase_auth/firebase_auth.dart';
-import 'package:CONTGURD/components/my_follow_button.dart';
+import 'package:CONTGUARD/components/my_follow_button.dart';
 
 class ProfilePage extends StatefulWidget {
   final String userId;

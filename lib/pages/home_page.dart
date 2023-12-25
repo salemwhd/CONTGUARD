@@ -1,12 +1,15 @@
+import 'dart:io';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:CONTGURD/components/globale_appBar.dart';
-import 'package:CONTGURD/components/text_field.dart';
-import 'package:CONTGURD/components/wall_post.dart';
-import 'package:CONTGURD/helper/helper_method.dart';
-import 'package:CONTGURD/pages/explore_page.dart';
-import 'package:CONTGURD/pages/profile_page.dart';
+import 'package:CONTGUARD/components/globale_appBar.dart';
+import 'package:CONTGUARD/components/text_field.dart';
+import 'package:CONTGUARD/components/wall_post.dart';
+import 'package:CONTGUARD/helper/helper_method.dart';
+import 'package:CONTGUARD/pages/explore_page.dart';
+import 'package:CONTGUARD/pages/profile_page.dart';
+import 'package:image_picker/image_picker.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -21,7 +24,7 @@ class _HomePageState extends State<HomePage> {
 
   //text controller
   final textController = TextEditingController();
-
+  File? _imageFile;
   //sign user out
   void signOut() {
     FirebaseAuth.instance.signOut();
@@ -98,6 +101,8 @@ class _HomePageState extends State<HomePage> {
                         postId: post.id,
                         likes: List<String>.from(post['Likes'] ?? []),
                         time: formatDate(post['TimeStamp']),
+                        image:
+                            _imageFile != null ? FileImage(_imageFile!) : null,
                       );
                     },
                   );
@@ -124,7 +129,25 @@ class _HomePageState extends State<HomePage> {
                         hintText: "Write something on the wall...",
                         obscureText: false),
                   ),
+                  // IconButton(
+                  //   icon: Icon(Icons.image),
+                  //   onPressed: () async {
+                  //     try {
+                  //       final ImagePicker _picker = ImagePicker();
+                  //       final XFile? image = await _picker.pickImage(
+                  //           source: ImageSource.gallery);
 
+                  //       if (image != null) {
+                  //         // Use the image file
+                  //         setState(() {
+                  //           _imageFile = File(image.path);
+                  //         });
+                  //       }
+                  //     } catch (e) {
+                  //       print('Error picking image: $e');
+                  //     }
+                  //   },
+                  // ),
                   //post button
                   IconButton(
                       onPressed: postMessage,

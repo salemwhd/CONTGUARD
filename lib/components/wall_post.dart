@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:CONTGURD/components/comment.dart';
-import 'package:CONTGURD/components/like_button.dart';
-import 'package:CONTGURD/helper/helper_method.dart';
+import 'package:CONTGUARD/components/comment.dart';
+import 'package:CONTGUARD/components/like_button.dart';
+import 'package:CONTGUARD/helper/helper_method.dart';
 
 import 'comment_button.dart';
 

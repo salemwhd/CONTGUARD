@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:CONTGURD/components/globale_appBar.dart';
-import 'package:CONTGURD/components/my_follow_button.dart';
-import 'package:CONTGURD/pages/profile_page.dart';
+import 'package:CONTGUARD/components/globale_appBar.dart';
+import 'package:CONTGUARD/components/my_follow_button.dart';
+import 'package:CONTGUARD/pages/profile_page.dart';
 
 class ExplorePage extends StatelessWidget {
   const ExplorePage({Key? key}) : super(key: key);

@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:CONTGURD/pages/explore_page.dart';
-import 'package:CONTGURD/pages/home_page.dart';
-import 'package:CONTGURD/pages/profile_page.dart';
+import 'package:CONTGUARD/pages/explore_page.dart';
+import 'package:CONTGUARD/pages/home_page.dart';
+import 'package:CONTGUARD/pages/profile_page.dart';
 
 class MainPage extends StatefulWidget {
   @override

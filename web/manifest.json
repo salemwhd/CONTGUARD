@@ -1,6 +1,6 @@
 {
-    "name": "CONTGURD",
-    "short_name": "CONTGURD",
+    "name": "CONTGUARD",
+    "short_name": "CONTGUARD",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
