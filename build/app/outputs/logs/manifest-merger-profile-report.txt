@@ -52,7 +52,6 @@ MERGED from [:cloud_firestore] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduat
 MERGED from [:firebase_core] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/firebase_core/intermediates/merged_manifest/profile/AndroidManifest.xml:2:1-17:12
 MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:2:1-21:12
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/profile/AndroidManifest.xml:2:1-9:12
-MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/profile/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/salem/.gradle/caches/transforms-3/77d1fc621ab4c904e339bacd46304591/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:17:1-75:12
 MERGED from [com.google.firebase:firebase-firestore:24.6.1] /home/salem/.gradle/caches/transforms-3/753fe461f5065f5addf7a4fdbd5014b7/transformed/jetified-firebase-firestore-24.6.1/AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/salem/.gradle/caches/transforms-3/7b99b937b3c87c2de08aec61452c66cd/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
@@ -133,8 +132,6 @@ MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/gr
 MERGED from [:image_picker_android] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/image_picker_android/intermediates/merged_manifest/profile/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/profile/AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/profile/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/profile/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_native_splash] /mnt/01D68E9B1FB32EC0/EDUCATIONAL/level 4/graduation project/CONTGUARD/build/flutter_native_splash/intermediates/merged_manifest/profile/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/salem/.gradle/caches/transforms-3/77d1fc621ab4c904e339bacd46304591/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:22.0.0] /home/salem/.gradle/caches/transforms-3/77d1fc621ab4c904e339bacd46304591/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-firestore:24.6.1] /home/salem/.gradle/caches/transforms-3/753fe461f5065f5addf7a4fdbd5014b7/transformed/jetified-firebase-firestore-24.6.1/AndroidManifest.xml:6:5-8:41

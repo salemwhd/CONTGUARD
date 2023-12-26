@@ -29,7 +29,7 @@ class ExplorePage extends StatelessWidget {
           }
 
           final usersData = snapshot.data!.docs;
-
+                            
           return ListView.builder(
             itemCount: usersData.length,
             itemBuilder: (context, index) {

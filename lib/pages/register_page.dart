@@ -47,8 +47,11 @@ class _RegisterPageState extends State<RegisterPage> {
           .collection("Users")
           .doc(userCredential.user!.email)
           .set({
+        'Followers': [],
+        'Following': [],
         'username': emailTextController.text.split('@')[0], //initial username
-        'bio': 'Empty bio...', //intial bio
+        'bio': 'Empty bio...',
+        
       });
 
       //pop laoding circle

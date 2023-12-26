@@ -7,8 +7,6 @@ import 'package:CONTGUARD/components/globale_appBar.dart';
 import 'package:CONTGUARD/components/text_field.dart';
 import 'package:CONTGUARD/components/wall_post.dart';
 import 'package:CONTGUARD/helper/helper_method.dart';
-import 'package:CONTGUARD/pages/explore_page.dart';
-import 'package:CONTGUARD/pages/profile_page.dart';
 import 'package:image_picker/image_picker.dart';
 
 class HomePage extends StatefulWidget {
@@ -26,7 +24,6 @@ class _HomePageState extends State<HomePage> {
   final textController = TextEditingController();
   File? _imageFile;
   //sign user out
-  
 
   //post message
   void postMessage() {
@@ -46,9 +43,6 @@ class _HomePageState extends State<HomePage> {
       textController.clear();
     });
   }
-
-  
-
 
   @override
   Widget build(BuildContext context) {
